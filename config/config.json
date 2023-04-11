@@ -1,0 +1,17 @@
+{
+  "development": {
+    "dialect": "sqlite",
+    "operatorsAliases":0,
+    "storage": "./javn3.db"
+  },
+  "test": {
+    "dialect": "sqlite",
+    "operatorsAliases":0,
+    "storage": "test.db"
+  },
+  "production": {
+    "dialect": "sqlite",
+    "operatorsAliases":0,
+    "storage": "javn3.db"
+  }
+}
